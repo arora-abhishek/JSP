@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jspAssignment.iml" filepath="$PROJECT_DIR$/.idea/modules/jspAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jspAssignment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jspAssignment_main.iml" group="jspAssignment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jspAssignment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jspAssignment_test.iml" group="jspAssignment" />
+    </modules>
+  </component>
+</project>
